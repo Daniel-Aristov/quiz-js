@@ -6,4 +6,4 @@
 - CSS
 - JavaScript
 
-### Ссылка для просмотра сайта: [QUIZ](https:// "Сайт на Netlify")
+### Ссылка для просмотра сайта: [QUIZ](https://quiz-aristov.netlify.app/ "Сайт на Netlify")
